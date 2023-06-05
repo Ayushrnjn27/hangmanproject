@@ -26,4 +26,4 @@ python hangman.py
 <img src="https://github.com/ndleah/python-mini-project/blob/main/IMG/hangman.gif" width=70% height=70%>
 
 ## 🤖 Author
-[AYUSH RANJAN](https://github.com/ndleah)
+[AYUSH RANJAN](https://github.com/Ayushrnjn27/hangmanproject)
